@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\calculato.r\calculato.r\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  calculato.r.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\calculato.r\x64\Debug\calculato.r.exe
